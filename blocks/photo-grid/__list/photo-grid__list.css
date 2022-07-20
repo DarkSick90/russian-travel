@@ -1,0 +1,26 @@
+.photo-grid__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 16px;
+}
+
+@media screen and (max-width: 1200px) {
+    .photo-grid__list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .photo-grid__list {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .photo-grid__list {
+        grid-template-columns: 1fr;
+    }
+}

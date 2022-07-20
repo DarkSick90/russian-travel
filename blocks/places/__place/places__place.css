@@ -1,0 +1,17 @@
+.places__place {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 80px;
+}
+
+@media screen and (max-width: 936px) {
+    .places__place {
+       padding-top: 73px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .places__place {
+       padding-top: 50px;
+    }
+}

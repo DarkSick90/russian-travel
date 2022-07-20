@@ -1,0 +1,25 @@
+.places__paragraph-wraper {
+    max-width: 484px;
+    margin-left: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+    .places__paragraph-wraper {
+        max-width: 456px;
+        margin-left: 32px;
+    }
+}
+
+@media screen and (max-width: 936px) {
+    .places__paragraph-wraper {
+        max-width: 352px;
+        margin-left: 28px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .places__paragraph-wraper {
+        max-width: 288px;
+        margin: 0 auto;
+    }
+}
