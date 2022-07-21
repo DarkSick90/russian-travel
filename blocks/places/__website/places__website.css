@@ -11,7 +11,7 @@
     }
 }
 
-@media screen and (max-width: 936px) {
+@media screen and (max-width: 950px) {
     .places__website {
         max-width: 456px;
         margin-left: 28px;

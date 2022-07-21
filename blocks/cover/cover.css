@@ -9,14 +9,14 @@
     background-position: center;
 }
 
-@media screen and (max-width: 1184px) {
+@media screen and (max-width: 1200px) {
     .cover {
         width: 100%;
         min-height: 640px;
     }
 }
 
-@media screen and (max-width: 936px) {
+@media screen and (max-width: 950px) {
     .cover {
         min-height: 480px;
     }

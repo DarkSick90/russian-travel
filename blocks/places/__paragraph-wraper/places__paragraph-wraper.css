@@ -10,7 +10,7 @@
     }
 }
 
-@media screen and (max-width: 936px) {
+@media screen and (max-width: 950px) {
     .places__paragraph-wraper {
         max-width: 352px;
         margin-left: 28px;
