@@ -13,14 +13,12 @@
 
 @media screen and (max-width: 950px) {
     .places__website {
-        max-width: 456px;
         margin-left: 28px;
     }
 }
 
 @media screen and (max-width: 740px) {
     .places__website {
-        max-width: 456px;
         min-width: 288px;
         margin: 0 auto 32px;
     }
